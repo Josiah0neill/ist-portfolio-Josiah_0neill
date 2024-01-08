@@ -11,4 +11,4 @@ git commit -m "Commit message"
 git push
 ```
 
-
+![MHS Logo](https://s3-us-west-2.amazonaws.com/sportshub2-uploads-prod/files/sites/2154/2021/07/14090338/MHS_Block_M-removebg-preview.png)
