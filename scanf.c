@@ -18,5 +18,5 @@ scanf(" %c", &grade);
 
 printf("your age is %i, your gpa is %f, your grade is %c\n,", age, gpa, grade);
 
-return 0
+return 0;
 }
